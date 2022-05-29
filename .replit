@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "/views/index.js"
 
 [interpreter]
 command = [
